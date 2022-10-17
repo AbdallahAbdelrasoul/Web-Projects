@@ -1,0 +1,21 @@
+try
+            {
+                con.Close();
+                con.Open();
+                SqlCommand cmd = con.CreateCommand();
+                cmd.CommandType = CommandType.Text;
+                cmd.CommandText = "select * from [item-state] where [«”„ «·’‰›] LIKE '%" + textBox97.Text + "%' ";
+                cmd.ExecuteNonQuery();
+                DataTable dt = new DataTable();
+                SqlDataAdapter da = new SqlDataAdapter(cmd);
+                da.Fill(dt);
+                dataGridView6.DataSource = dt;
+
+                con.Close();
+                Calc_rate();
+
+            }
+            catch (Exception error)
+            {
+                 MessageBox.Show(error.Message);
+            }

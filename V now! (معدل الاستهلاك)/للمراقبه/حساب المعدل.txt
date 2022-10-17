@@ -1,0 +1,29 @@
+try
+            {
+                con.Close();
+                string amount = "";//, rate = "";
+                con.Open();
+                SqlCommand cmd1 = con.CreateCommand();
+                cmd1.CommandType = CommandType.Text;
+                foreach (DataGridViewRow row1 in dataGridView6.Rows)
+                {
+                    amount = "";//rate = "";
+                    cmd1.CommandText = "select sum(cast («·ﬂ„Ì… as decimal	))  As «·ﬂ„Ì… from [item-move] where[—ﬁ„ «·’—›] != ''and «· «—ÌŒ between '" + dateTimePicker11.Value.ToString("yyyy-MM-dd") + "' and '" + dateTimePicker16.Value.ToString("yyyy-MM-dd") + "' and [«”„ «·’‰›]='" + row1.Cells[0].Value + "'";
+                    cmd1.ExecuteNonQuery();
+                    DataTable dt1 = new DataTable();
+                    SqlDataAdapter da1 = new SqlDataAdapter(cmd1);
+                    da1.Fill(dt1);
+                    foreach (DataRow dr in dt1.Rows)
+                    {
+                        amount = Convert.ToString(dr[0].ToString());       
+                    }
+                    row1.Cells[2].Value = amount;
+
+                    //textBox95.Text = Convert.ToString(amount);
+                }
+                con.Close();
+            }
+            catch (Exception error)
+            {
+                MessageBox.Show(error.Message);
+            }
