@@ -1,0 +1,5 @@
+npm install react-icons --save
+or
+npm install @react-icons/all-files --save
+--------------------------------------
+import { FaBeer } from 'react-icons/fa';

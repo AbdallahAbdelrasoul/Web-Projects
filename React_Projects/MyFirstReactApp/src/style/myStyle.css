@@ -1,0 +1,71 @@
+#myBtn{
+		background-color:orange;
+		border: none;
+		padding: 10px;
+		border-radius: 10px;
+		color: white;
+	}
+.mylist{
+		transition: 1s;
+		color: black;
+		text-align: right;
+		direction: rtl;
+		display: inline-table;
+	}
+#header{
+		font-size: 24pt;
+		font-weight: bolder;
+		border-bottom: solid	;
+		border-width: 0.5px;
+		border-color: orange;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		direction: rtl;
+		background-color: #808080;
+		
+	}
+#mylabel{
+		color:white;
+		transition: 3s;
+		margin-right: 45%;
+		animation-name: moving;
+		animation-duration: 3s;
+	}	
+	@keyframes moving{
+	0%{ margin-right: 0%;}
+	100%{ margin-right: 45%;}
+} 
+
+#card{
+		flex: 20%; 
+		background-color: white; 
+		margin-left: 20px; 
+		margin-top: 20px; 
+		color:gray; 
+		border-radius: 10px;
+		border-right: solid;
+		border-right-color: orange; 
+		padding-bottom: 20px;
+		height: 100px; 
+		transition: 1s;
+	    box-shadow: 0px 4px 5px 0px orange;
+		text-align: center;
+	}
+#data{
+		flex: 80%; 
+		margin-top: 20px;
+		margin-left: 20px;
+	 	color: white;
+		direction: rtl;
+		/* border-right: solid; */
+		/* border-right-color: orange; */
+		/* border-width: 0.5px; */
+	}
+#footer{
+	font-size: 14px;
+	color: white;
+	position: absolute;
+	top: 90%;
+	margin-left: 50px;
+}
+ 
