@@ -1,0 +1,304 @@
+#mybody{
+    background-image: url(images/caf_bg.jpg);
+    background-size: 100%,100%;
+}
+#mybodyStand{
+    background-image: url(images/stadium_background.jpg);
+}
+#Playerbody{
+    background-image: url(images/africa_football.jpg);
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#inputBody{
+    background-image: url(images/africa_football.jpg);
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#H1{
+    text-align: center;
+    color: wheat;
+    font-family: Candara, "fantasy";
+}
+#H2{
+    text-align: center;
+    color: wheat;
+    font-family: "Yu Gothic", "fantasy";
+}
+#lb{
+    color: wheat;
+    font-family: "Yu Gothic", "fantasy";
+    text-align: center;
+}
+#inputlb{
+    color: white;
+    font-family: "Yu Gothic", "fantasy";
+    text-align: center;
+}
+div.div1{
+    border-radius: 5pt;
+    margin-top: 0%;
+
+}
+div.searchDiv{
+    position: relative;
+}
+#stxt{
+    border-color: darkred;
+    border-radius: 5pt;
+    width: 250pt;
+    height: 20pt;
+    font-family: "fantasy";
+    font-size: 16pt;
+    padding: 5px 25px;
+    box-shadow: 0 9px #999;
+    color: wheat;
+
+}
+#sbtn{
+    display: inline-grid;
+    padding: 10pt 25pt;
+    font-size: 12pt;
+    cursor: pointer;
+    text-align: center;
+    outline: darkred;
+    color: wheat;
+    background-image: linear-gradient(green,gainsboro);
+    border-radius: 12pt;
+    box-shadow: 0 5pt #999;
+}
+#sbtn:hover {background-color: lightcoral}
+#sbtn:active {
+    background-color: white;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+#t1 {
+    font-family: "Yu Gothic", "fantasy" ;
+    font-size: 16pt;
+    color: burlywood;
+    width: 90%;
+    border-radius: 5pt;
+    text-align: center;
+    border: none;
+    margin-left: 5%;
+}
+.div2{
+    position: relative;
+    font-family: "Yu Gothic", "fantasy";
+    border-radius: 5pt;
+    margin: initial;
+
+}
+.div2stand{
+    position: relative;
+    font-family: "Engravers MT", "fantasy";
+    border-radius: 5pt;
+    color: gray;
+
+}
+#H1stand{
+    text-align: center;
+    color: white;
+    font-family: Forte, "fantasy";
+}
+#t1stand {
+    font-family: "Yu Gothic", "fantasy" ;
+    font-size: 16pt;
+    width: 80%;
+    border-radius: 5pt;
+    text-align: center;
+    background-color:lightblue ;  
+    color: black;
+}
+th
+{
+    font-family: Forte,Cooper Black ;
+    border-bottom: 2px solid cornsilk;
+}
+td
+{
+    border-bottom: 1px solid cornsilk;
+}
+#standbtn{
+    display: inline-grid;
+    padding: 10pt 25pt;
+    font-size: 12pt;
+    cursor: pointer;
+    text-align: center;
+    outline: darkred;
+    color: wheat;
+    background-image: linear-gradient(green,gainsboro);
+    border-radius: 12pt;
+    box-shadow: 0 5pt #999;
+}
+#standbtn:hover {background-color: lightcoral}
+#standbtn:active {
+    background-color: white;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+#divbar{
+    margin-left: 5%;
+
+}
+#homebtn{
+    display: inline-grid;
+    padding: 10pt 25pt;
+    font-size: 12pt;
+    cursor: pointer;
+    text-align: center;
+    outline: darkred;
+    color: white;
+    background-image: linear-gradient(lightblue,gainsboro);
+    border-radius: 12pt;
+    box-shadow: 0 5pt #999;
+}
+#playerSelect{
+    background-color: seagreen;
+    color: white;
+    padding: 12px;
+    width: 250px;
+    border: none;
+    font-size: 20px;
+    box-shadow: 0 5px 25px chartreuse;
+    -webkit-appearance: button;
+    appearance: button;
+    outline: none;
+    border-radius: 12pt;
+}
+#playerbtn{
+    display: inline-grid;
+    padding: 8pt 10pt;
+    font-size: 10pt;
+    cursor: pointer;
+    text-align: center;
+    box-shadow: 0 5px 25px chartreuse;
+    color: black;
+    background-image: linear-gradient(wheat,gainsboro);
+    border-radius: 12pt;
+    box-shadow: 0 5pt #999;
+    border: none;
+}
+#playerSearch{
+    background-image: linear-gradient(wheat,gainsboro);
+    color: white;
+    padding: 8pt 10pt;
+    border: none;
+    font-size: 14px;
+    box-shadow: 0 5px 25px chartreuse;
+    -webkit-appearance: button;
+    appearance: button;
+    outline: none;
+    border-radius: 12pt;
+}
+#playerSearch:hover {background-color: lightcoral}
+#playerSearch:active {
+    background-color: white;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+#t1players{
+    font-family: "Yu Gothic", "fantasy" ;
+    font-size: 16pt;
+    width: 80%;
+    border-radius: 5pt;
+    text-align: center;
+    background-image: linear-gradient(wheat,gainsboro);
+    color: black;
+}
+#playerhomebtn{
+    display: inline-grid;
+    padding: 10pt 25pt;
+    font-size: 12pt;
+    cursor: pointer;
+    text-align: center;
+    outline: darkred;
+    color: white;
+    background-image: linear-gradient(wheat,gainsboro);
+    border-radius: 12pt;
+    box-shadow: 0 5pt #999;
+}
+#divINputForm{
+    width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background-color: wheat;
+  color: black; 
+}
+#INputForm {
+  width: 100%;
+  padding: 12px 20px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background-image: linear-gradient(wheat,coral);
+}
+#player_id{
+    width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  
+}
+#subbtn{
+    display: inline-grid;
+    padding: 10pt 25pt;
+    font-size: 12pt;
+    font-family: bold;
+    cursor: pointer;
+    text-align: center;
+    outline: wheat;
+    color: wheat;
+    background-image: linear-gradient(white,gainsboro);
+    border-radius: 12pt;
+    box-shadow: 0 5pt #999;
+    width: 80%;
+}
+#team_id{
+    width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+    
+}
+#Date{
+    width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+    
+}
+#Time{
+    width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+    
+}
