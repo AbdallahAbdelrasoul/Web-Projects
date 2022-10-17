@@ -1,0 +1,207 @@
+F:\VisualStudio Projects\AccApp\AccApp\obj\Debug\AccApp.Form1.resources
+F:\VisualStudio Projects\AccApp\AccApp\obj\Debug\AccApp.Properties.Resources.resources
+F:\VisualStudio Projects\AccApp\AccApp\obj\Debug\AccApp.csproj.GenerateResource.cache
+F:\VisualStudio Projects\AccApp\AccApp\obj\Debug\AccApp.csproj.CoreCompileInputs.cache
+F:\VisualStudio Projects\AccApp\AccApp\bin\Debug\AccApp.exe.config
+F:\VisualStudio Projects\AccApp\AccApp\bin\Debug\AccApp.exe
+F:\VisualStudio Projects\AccApp\AccApp\bin\Debug\AccApp.pdb
+F:\VisualStudio Projects\AccApp\AccApp\obj\Debug\AccApp.exe
+F:\VisualStudio Projects\AccApp\AccApp\obj\Debug\AccApp.pdb
+F:\VisualStudio Projects\AccApp\output\AccApp.exe.config
+F:\VisualStudio Projects\AccApp\output\AccApp.exe
+F:\VisualStudio Projects\AccApp\output\AccApp.pdb
+F:\VisualStudio Projects\AccApp\AccApp\obj\Debug\AccApp.csprojAssemblyReference.cache
+E:\AccApp\output\AccApp.exe.config
+E:\AccApp\output\AccApp.exe
+E:\AccApp\output\AccApp.pdb
+E:\AccApp\AccApp\obj\Debug\AccApp.csprojAssemblyReference.cache
+E:\AccApp\AccApp\obj\Debug\AccApp.Form1.resources
+E:\AccApp\AccApp\obj\Debug\AccApp.Properties.Resources.resources
+E:\AccApp\AccApp\obj\Debug\AccApp.csproj.GenerateResource.cache
+E:\AccApp\AccApp\obj\Debug\AccApp.csproj.CoreCompileInputs.cache
+E:\AccApp\AccApp\obj\Debug\AccApp.exe
+E:\AccApp\AccApp\obj\Debug\AccApp.pdb
+F:\VisualStudio Projects\Magd AL-Islam\AccApp\output\AccApp.exe.config
+F:\VisualStudio Projects\Magd AL-Islam\AccApp\output\AccApp.exe
+F:\VisualStudio Projects\Magd AL-Islam\AccApp\output\AccApp.pdb
+F:\VisualStudio Projects\Magd AL-Islam\AccApp\AccApp\obj\Debug\AccApp.csprojAssemblyReference.cache
+F:\VisualStudio Projects\Magd AL-Islam\AccApp\AccApp\obj\Debug\AccApp.Form1.resources
+F:\VisualStudio Projects\Magd AL-Islam\AccApp\AccApp\obj\Debug\AccApp.Properties.Resources.resources
+F:\VisualStudio Projects\Magd AL-Islam\AccApp\AccApp\obj\Debug\AccApp.csproj.GenerateResource.cache
+F:\VisualStudio Projects\Magd AL-Islam\AccApp\AccApp\obj\Debug\AccApp.csproj.CoreCompileInputs.cache
+F:\VisualStudio Projects\Magd AL-Islam\AccApp\AccApp\obj\Debug\AccApp.exe
+F:\VisualStudio Projects\Magd AL-Islam\AccApp\AccApp\obj\Debug\AccApp.pdb
+F:\VisualStudio Projects\Magd AL-Islam\AccApp\AccApp\obj\Debug\AccApp.csproj.CopyComplete
+E:\Magd AL-Islam\AccApp\output\AccApp.exe.config
+E:\Magd AL-Islam\AccApp\output\AccApp.exe
+E:\Magd AL-Islam\AccApp\output\AccApp.pdb
+E:\Magd AL-Islam\AccApp\AccApp\obj\Debug\AccApp.csprojAssemblyReference.cache
+E:\Magd AL-Islam\AccApp\AccApp\obj\Debug\AccApp.Form1.resources
+E:\Magd AL-Islam\AccApp\AccApp\obj\Debug\AccApp.Properties.Resources.resources
+E:\Magd AL-Islam\AccApp\AccApp\obj\Debug\AccApp.csproj.GenerateResource.cache
+E:\Magd AL-Islam\AccApp\AccApp\obj\Debug\AccApp.csproj.CoreCompileInputs.cache
+E:\Magd AL-Islam\AccApp\AccApp\obj\Debug\AccApp.csproj.CopyComplete
+E:\Magd AL-Islam\AccApp\AccApp\obj\Debug\AccApp.exe
+E:\Magd AL-Islam\AccApp\AccApp\obj\Debug\AccApp.pdb
+F:\VisualStudio Projects\Magd AL-Islam 7.10.2020\AccApp\output\AccApp.exe.config
+F:\VisualStudio Projects\Magd AL-Islam 7.10.2020\AccApp\output\AccApp.exe
+F:\VisualStudio Projects\Magd AL-Islam 7.10.2020\AccApp\output\AccApp.pdb
+F:\VisualStudio Projects\Magd AL-Islam 7.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form1.resources
+F:\VisualStudio Projects\Magd AL-Islam 7.10.2020\AccApp\AccApp\obj\Debug\AccApp.Properties.Resources.resources
+F:\VisualStudio Projects\Magd AL-Islam 7.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.GenerateResource.cache
+F:\VisualStudio Projects\Magd AL-Islam 7.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.CoreCompileInputs.cache
+F:\VisualStudio Projects\Magd AL-Islam 7.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.CopyComplete
+F:\VisualStudio Projects\Magd AL-Islam 7.10.2020\AccApp\AccApp\obj\Debug\AccApp.exe
+F:\VisualStudio Projects\Magd AL-Islam 7.10.2020\AccApp\AccApp\obj\Debug\AccApp.pdb
+F:\VisualStudio Projects\Magd AL-Islam 7.10.2020\AccApp\output\new Output\AccApp.exe.config
+F:\VisualStudio Projects\Magd AL-Islam 7.10.2020\AccApp\output\new Output\AccApp.exe
+F:\VisualStudio Projects\Magd AL-Islam 7.10.2020\AccApp\output\new Output\AccApp.pdb
+F:\VisualStudio Projects\Magd AL-Islam 7.10.2020\AccApp\AccApp\obj\Debug\AccApp.csprojAssemblyReference.cache
+F:\VisualStudio Projects\Magd AL-Islam 8.10.2020\AccApp\output\new Output\AccApp.exe.config
+F:\VisualStudio Projects\Magd AL-Islam 8.10.2020\AccApp\output\new Output\AccApp.exe
+F:\VisualStudio Projects\Magd AL-Islam 8.10.2020\AccApp\output\new Output\AccApp.pdb
+F:\VisualStudio Projects\Magd AL-Islam 8.10.2020\AccApp\AccApp\obj\Debug\AccApp.csprojAssemblyReference.cache
+F:\VisualStudio Projects\Magd AL-Islam 8.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form1.resources
+F:\VisualStudio Projects\Magd AL-Islam 8.10.2020\AccApp\AccApp\obj\Debug\AccApp.Properties.Resources.resources
+F:\VisualStudio Projects\Magd AL-Islam 8.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.GenerateResource.cache
+F:\VisualStudio Projects\Magd AL-Islam 8.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.CoreCompileInputs.cache
+F:\VisualStudio Projects\Magd AL-Islam 8.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.CopyComplete
+F:\VisualStudio Projects\Magd AL-Islam 8.10.2020\AccApp\AccApp\obj\Debug\AccApp.exe
+F:\VisualStudio Projects\Magd AL-Islam 8.10.2020\AccApp\AccApp\obj\Debug\AccApp.pdb
+F:\VisualStudio Projects\Magd AL-Islam 8.10.2020\AccApp\output\output 9.10\AccApp.exe.config
+F:\VisualStudio Projects\Magd AL-Islam 8.10.2020\AccApp\output\output 9.10\AccApp.exe
+F:\VisualStudio Projects\Magd AL-Islam 8.10.2020\AccApp\output\output 9.10\AccApp.pdb
+F:\VisualStudio Projects\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\AccApp.csprojAssemblyReference.cache
+F:\VisualStudio Projects\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form1.resources
+F:\VisualStudio Projects\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\AccApp.Properties.Resources.resources
+F:\VisualStudio Projects\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.GenerateResource.cache
+F:\VisualStudio Projects\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.CoreCompileInputs.cache
+F:\VisualStudio Projects\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.CopyComplete
+F:\VisualStudio Projects\Magd AL-Islam 9.10.2020\AccApp\output\output 10.10\برنامج الحسابات.exe.config
+F:\VisualStudio Projects\Magd AL-Islam 9.10.2020\AccApp\output\output 10.10\برنامج الحسابات.exe
+F:\VisualStudio Projects\Magd AL-Islam 9.10.2020\AccApp\output\output 10.10\برنامج الحسابات.pdb
+F:\VisualStudio Projects\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\برنامج الحسابات.exe
+F:\VisualStudio Projects\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\برنامج الحسابات.pdb
+F:\VisualStudio Projects\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form2.resources
+E:\Magd AL-Islam 2020\Magd AL-Islam 9.10.2020\AccApp\output\output 11.10\برنامج الحسابات.exe.config
+E:\Magd AL-Islam 2020\Magd AL-Islam 9.10.2020\AccApp\output\output 11.10\برنامج الحسابات.exe
+E:\Magd AL-Islam 2020\Magd AL-Islam 9.10.2020\AccApp\output\output 11.10\برنامج الحسابات.pdb
+E:\Magd AL-Islam 2020\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\AccApp.csprojAssemblyReference.cache
+E:\Magd AL-Islam 2020\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form1.resources
+E:\Magd AL-Islam 2020\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form2.resources
+E:\Magd AL-Islam 2020\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\AccApp.Properties.Resources.resources
+E:\Magd AL-Islam 2020\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.GenerateResource.cache
+E:\Magd AL-Islam 2020\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.CoreCompileInputs.cache
+E:\Magd AL-Islam 2020\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.CopyComplete
+E:\Magd AL-Islam 2020\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\برنامج الحسابات.exe
+E:\Magd AL-Islam 2020\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\برنامج الحسابات.pdb
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 9.10.2020\AccApp\output\output 11.10\برنامج الحسابات.exe.config
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 9.10.2020\AccApp\output\output 11.10\برنامج الحسابات.exe
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 9.10.2020\AccApp\output\output 11.10\برنامج الحسابات.pdb
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\AccApp.csprojAssemblyReference.cache
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form1.resources
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form2.resources
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\AccApp.Properties.Resources.resources
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.GenerateResource.cache
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.CoreCompileInputs.cache
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.CopyComplete
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\برنامج الحسابات.exe
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 9.10.2020\AccApp\AccApp\obj\Debug\برنامج الحسابات.pdb
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 11.10.2020\AccApp\output\output 11.10\برنامج الحسابات.exe.config
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 11.10.2020\AccApp\output\output 11.10\برنامج الحسابات.exe
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 11.10.2020\AccApp\output\output 11.10\برنامج الحسابات.pdb
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 11.10.2020\AccApp\AccApp\obj\Debug\AccApp.csprojAssemblyReference.cache
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 11.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form1.resources
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 11.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form2.resources
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 11.10.2020\AccApp\AccApp\obj\Debug\AccApp.Properties.Resources.resources
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 11.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.GenerateResource.cache
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 11.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.CoreCompileInputs.cache
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 11.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.CopyComplete
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 11.10.2020\AccApp\AccApp\obj\Debug\برنامج الحسابات.exe
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 11.10.2020\AccApp\AccApp\obj\Debug\برنامج الحسابات.pdb
+E:\Magd AL-Islam 2020\Magd AL-Islam 11.10.2020\AccApp\output\output 11.10\برنامج الحسابات.exe.config
+E:\Magd AL-Islam 2020\Magd AL-Islam 11.10.2020\AccApp\output\output 11.10\برنامج الحسابات.exe
+E:\Magd AL-Islam 2020\Magd AL-Islam 11.10.2020\AccApp\output\output 11.10\برنامج الحسابات.pdb
+E:\Magd AL-Islam 2020\Magd AL-Islam 11.10.2020\AccApp\AccApp\obj\Debug\AccApp.csprojAssemblyReference.cache
+E:\Magd AL-Islam 2020\Magd AL-Islam 11.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form1.resources
+E:\Magd AL-Islam 2020\Magd AL-Islam 11.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form2.resources
+E:\Magd AL-Islam 2020\Magd AL-Islam 11.10.2020\AccApp\AccApp\obj\Debug\AccApp.Properties.Resources.resources
+E:\Magd AL-Islam 2020\Magd AL-Islam 11.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.GenerateResource.cache
+E:\Magd AL-Islam 2020\Magd AL-Islam 11.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.CoreCompileInputs.cache
+E:\Magd AL-Islam 2020\Magd AL-Islam 11.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.CopyComplete
+E:\Magd AL-Islam 2020\Magd AL-Islam 11.10.2020\AccApp\AccApp\obj\Debug\برنامج الحسابات.exe
+E:\Magd AL-Islam 2020\Magd AL-Islam 11.10.2020\AccApp\AccApp\obj\Debug\برنامج الحسابات.pdb
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 13.10.2020\AccApp\output\output 13.10\برنامج الحسابات.exe.config
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 13.10.2020\AccApp\output\output 13.10\برنامج الحسابات.exe
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 13.10.2020\AccApp\output\output 13.10\برنامج الحسابات.pdb
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 13.10.2020\AccApp\AccApp\obj\Debug\AccApp.csprojAssemblyReference.cache
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 13.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form1.resources
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 13.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form2.resources
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 13.10.2020\AccApp\AccApp\obj\Debug\AccApp.Properties.Resources.resources
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 13.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.GenerateResource.cache
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 13.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.CoreCompileInputs.cache
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 13.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.CopyComplete
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 13.10.2020\AccApp\AccApp\obj\Debug\برنامج الحسابات.exe
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 13.10.2020\AccApp\AccApp\obj\Debug\برنامج الحسابات.pdb
+E:\Magd AL-Islam 2020\Magd AL-Islam 14.10.2020\AccApp\output\برنامج الحسابات.exe.config
+E:\Magd AL-Islam 2020\Magd AL-Islam 14.10.2020\AccApp\output\برنامج الحسابات.exe
+E:\Magd AL-Islam 2020\Magd AL-Islam 14.10.2020\AccApp\output\برنامج الحسابات.pdb
+E:\Magd AL-Islam 2020\Magd AL-Islam 14.10.2020\AccApp\AccApp\obj\Debug\AccApp.csprojAssemblyReference.cache
+E:\Magd AL-Islam 2020\Magd AL-Islam 14.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form1.resources
+E:\Magd AL-Islam 2020\Magd AL-Islam 14.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form2.resources
+E:\Magd AL-Islam 2020\Magd AL-Islam 14.10.2020\AccApp\AccApp\obj\Debug\AccApp.Properties.Resources.resources
+E:\Magd AL-Islam 2020\Magd AL-Islam 14.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.GenerateResource.cache
+E:\Magd AL-Islam 2020\Magd AL-Islam 14.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.CoreCompileInputs.cache
+E:\Magd AL-Islam 2020\Magd AL-Islam 14.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.CopyComplete
+E:\Magd AL-Islam 2020\Magd AL-Islam 14.10.2020\AccApp\AccApp\obj\Debug\برنامج الحسابات.exe
+E:\Magd AL-Islam 2020\Magd AL-Islam 14.10.2020\AccApp\AccApp\obj\Debug\برنامج الحسابات.pdb
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 14.10.2020\AccApp\output\برنامج الحسابات.exe.config
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 14.10.2020\AccApp\output\برنامج الحسابات.exe
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 14.10.2020\AccApp\output\برنامج الحسابات.pdb
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 14.10.2020\AccApp\AccApp\obj\Debug\AccApp.csprojAssemblyReference.cache
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 14.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form1.resources
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 14.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form2.resources
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 14.10.2020\AccApp\AccApp\obj\Debug\AccApp.Properties.Resources.resources
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 14.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.GenerateResource.cache
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 14.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.CoreCompileInputs.cache
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 14.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.CopyComplete
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 14.10.2020\AccApp\AccApp\obj\Debug\برنامج الحسابات.exe
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 14.10.2020\AccApp\AccApp\obj\Debug\برنامج الحسابات.pdb
+E:\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\AccApp\obj\Debug\AccApp.csprojAssemblyReference.cache
+E:\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form1.resources
+E:\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form2.resources
+E:\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\AccApp\obj\Debug\AccApp.Properties.Resources.resources
+E:\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.GenerateResource.cache
+E:\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.CoreCompileInputs.cache
+E:\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\AccApp\obj\Debug\برنامج الحسابات.exe
+E:\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\AccApp\obj\Debug\برنامج الحسابات.pdb
+E:\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\output\برنامج الحسابات.exe.config
+E:\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\output\برنامج الحسابات.exe
+E:\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\output\برنامج الحسابات.pdb
+E:\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.CopyComplete
+E:\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form3.resources
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\output\برنامج الحسابات.exe.config
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\output\برنامج الحسابات.exe
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\output\برنامج الحسابات.pdb
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form1.resources
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form2.resources
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form3.resources
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\AccApp\obj\Debug\AccApp.Properties.Resources.resources
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.GenerateResource.cache
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.CoreCompileInputs.cache
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.CopyComplete
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\AccApp\obj\Debug\برنامج الحسابات.exe
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\AccApp\obj\Debug\برنامج الحسابات.pdb
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 16.10.2020\AccApp\AccApp\obj\Debug\AccApp.csprojAssemblyReference.cache
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 22.10.2020\AccApp\output\برنامج الحسابات.exe.config
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 22.10.2020\AccApp\output\برنامج الحسابات.exe
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 22.10.2020\AccApp\output\برنامج الحسابات.pdb
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 22.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form1.resources
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 22.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form2.resources
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 22.10.2020\AccApp\AccApp\obj\Debug\AccApp.Form3.resources
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 22.10.2020\AccApp\AccApp\obj\Debug\AccApp.Properties.Resources.resources
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 22.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.GenerateResource.cache
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 22.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.CoreCompileInputs.cache
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 22.10.2020\AccApp\AccApp\obj\Debug\برنامج الحسابات.exe
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 22.10.2020\AccApp\AccApp\obj\Debug\برنامج الحسابات.pdb
+F:\VisualStudio Projects\Magd AL-Islam 2020\Magd AL-Islam 22.10.2020\AccApp\AccApp\obj\Debug\AccApp.csproj.AssemblyReference.cache
