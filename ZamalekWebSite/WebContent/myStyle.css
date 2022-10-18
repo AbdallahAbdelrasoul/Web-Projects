@@ -1,0 +1,65 @@
+#mybody{
+    background-image:url("zamalekbg.png");
+}
+#H1{
+    text-align: center;
+    color: white;
+    font-family: Candara, "fantasy";
+}
+#H2{
+    color: white;
+    font-family: "Yu Gothic", "fantasy";
+}
+#lb{
+    color: white;
+    font-family: "Yu Gothic", "fantasy";
+}
+div.div1{
+    background-image: linear-gradient(darkred,gainsboro);
+    border-radius: 5pt;
+}
+div.searchDiv{
+    position: relative;
+}
+#stxt{
+    border-color: darkred;
+    border-radius: 5pt;
+    width: 250pt;
+    height: 20pt;
+    font-family: "fantasy";
+    font-size: 16pt;
+    padding: 5px 25px;
+    box-shadow: 0 9px #999;
+
+}
+#sbtn{
+    display: inline-grid;
+    padding: 10pt 25pt;
+    font-size: 12pt;
+    cursor: pointer;
+    text-align: center;
+    outline: darkred;
+    color: #fff;
+    background-color: darkred;
+    border: none;
+    border-radius: 12pt;
+    box-shadow: 0 5pt #999;
+}
+#sbtn:hover {background-color: lightcoral}
+#sbtn:active {
+    background-color: white;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+#t1 {
+    border: 2px solid darkred;
+    font-family: "Yu Gothic", "fantasy";
+    width: 400pt;
+    border-radius: 5pt;
+    background-image: linear-gradient(darkred,gainsboro); 
+}
+.div2{
+    position: absolute;
+    right: 5pt;
+    font-family: "Yu Gothic", "fantasy";
+}
