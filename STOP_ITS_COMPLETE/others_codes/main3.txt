@@ -1,0 +1,51 @@
+public void onDataChange(@NonNull DataSnapshot snapshot) {
+                if (snapshot.getValue() != null && !snapshot.getValue().equals("")){
+                    Toast.makeText(getApplicationContext(), snapshot.getValue().toString() + " Say : STOP IT'S COMPLETE !!!", Toast.LENGTH_SHORT ).show();
+                    shareMyScreen();
+                    stopAction();
+                    getPlayerList();
+                    
+                    storage = FirebaseStorage.getInstance();
+                    storageRef = FirebaseStorage.getInstance().getReference(roomName+"Images");
+                    for (final String player : playersList) {
+                        System.out.println("player is : " + player);
+                        storageRef.child(player + "Screen.jpg").getDownloadUrl().addOnSuccessListener(new OnSuccessListener<Uri>() {
+                            @Override
+                            public void onSuccess(Uri uri) {
+                                // Got the download URL for 'users/me/profile.png'
+                                Toast.makeText(MainActivity3.this, "Got the download URL for " + player, Toast.LENGTH_SHORT).show();
+                                Intent intent = new Intent(MainActivity3.this, ImageSwitcherView.class);
+                                intent.putExtra("count",playersList.size());
+                                
+                            }
+                        }).addOnFailureListener(new OnFailureListener() {
+                            @Override
+                            public void onFailure(@NonNull Exception exception) {
+                                Toast.makeText(MainActivity3.this, exception.getMessage(), Toast.LENGTH_SHORT).show();
+                            }
+                        });
+                    }
+                    System.out.println("pics ::: " + pics.toString());
+
+                   
+                    flag = '1' ;
+                    startActivity(intent);
+                }
+            }
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+   public void onDataChange(@NonNull DataSnapshot snapshot) {
+                if (snapshot.getValue() != null && !snapshot.getValue().equals("")){
+                    Toast.makeText(getApplicationContext(), snapshot.getValue().toString() + " Say : STOP IT'S COMPLETE !!!", Toast.LENGTH_SHORT ).show();
+                    shareMyScreen();
+                    stopAction();
+                    Intent intent = new Intent(MainActivity3.this, ScreenPage.class);
+                    intent.putExtra("roomName" , roomName);
+                    getPlayerList();
+                    for(int i = 0; i < players_inRoomList.size() ; i++){
+                        intent.putExtra("roomPlayers" + i , players_inRoomList.get(i));
+                    }
+                    flag = '1' ;
+                    startActivity(intent);
+                }
+            }

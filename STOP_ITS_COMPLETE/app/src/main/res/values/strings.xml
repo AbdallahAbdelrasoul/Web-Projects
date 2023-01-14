@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NEW OTOUBIS</string>
+    <string name="username">Username</string>
+    <string name="login">START GAME</string>
+    <string name="CreateRoom">CREATE ROOM</string>
+    <string name="ShowRooms">SHOW ROOMS</string>
+</resources>

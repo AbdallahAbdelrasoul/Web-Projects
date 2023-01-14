@@ -1,0 +1,14 @@
+//*********************************************************************
+onCreate()
+        MyService myService = new MyService();                            //**
+        myService.setRoomName(roomName);
+        Intent intent = new Intent(this, MyService.class); //**
+        startService(intent);                                           //**
+//*****************************************************************
+Manifest
+
+<!--        <service-->
+<!--            android:enabled="true"-->
+<!--            android:name=".MyService"-->
+<!--            android:exported="false"-->
+<!--            android:stopWithTask="false" />-->

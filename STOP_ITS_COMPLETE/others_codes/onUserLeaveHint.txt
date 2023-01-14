@@ -1,0 +1,14 @@
+
+//    @Override
+//    protected void onUserLeaveHint() {
+//        super.onUserLeaveHint();
+//        handler = new Handler();
+//        handler.postDelayed(new Runnable() {
+//            @Override
+//            public void run() {
+//                Toast.makeText(getApplicationContext(),"ONLINE",Toast.LENGTH_LONG).show();
+//
+//                handler.postDelayed(this, 2000);
+//            }
+//        }, 5000);  //the time is in miliseconds
+//    }
